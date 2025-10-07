@@ -77,4 +77,4 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 
 # RESULT
-All conditions are execute Successfully
+All conditions are executed Successfully
